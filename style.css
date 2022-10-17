@@ -1,0 +1,137 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: turquoise;
+    
+    
+  }
+  
+  h1{
+    text-align: center;
+    color: white;
+  }
+  
+  
+  .american{
+    width: 275px;
+    height: 250px;
+    border-radius: 5%;
+    border: 3px solid black;
+    position: absolute;
+    left: 20px;
+    background-image: url(https://i.pinimg.com/originals/ef/c9/fa/efc9fa91f3265f151a4abe88bbb41c48.jpg);
+    background-size: cover;
+    z-index: 2;
+    
+  }
+  
+  .chinese{
+    width: 275px;
+    height: 250px;
+    border-radius: 5%;
+    border: 3px solid black;
+    position: absolute;
+    right: 20px;
+    background-image: url(https://th.bing.com/th/id/OIP.HkbPR-_0_96rDwysZz6rugHaFj?pid=ImgDet&rs=1);
+    background-size: cover;
+    z-index: 2;
+  }
+  
+  .greek{
+    width:275px;
+    height: 250px;
+    border-radius: 5%;
+    border: 3px solid black;
+    position: absolute;
+    right: 335px;
+     background-image: url(https://i.pinimg.com/736x/c2/00/86/c20086b99405b9a1dadf0fa42fd6f16f.jpg);
+    background-size: cover;
+    z-index: 2;
+  }
+  
+  .italian{
+    width: 275px;
+    height: 250px;
+    border-radius: 5%;
+    border: 3px solid black;
+    position: absolute;
+    left: 335px;
+     background-image: url(https://th.bing.com/th/id/R.89706f4f510661c723c4e4ff7a2ca5fe?rik=LGjUJrdIdlW5lQ&pid=ImgRaw&r=0);
+    background-size: cover;
+    z-index: 2;
+  }
+  
+  .homebutton{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid black;
+    position: absolute;
+    left: 15px;
+    top: 20px;
+    background-image: url(https://media.istockphoto.com/vectors/home-icon-or-symbol-for-web-site-ui-or-application-ui-vector-id1131020715?k=6&m=1131020715&s=612x612&w=0&h=P4PqmXOJO1siB-uIo_UrJxwN-TIM5XQWOS8gHLAE5ZM=);
+    background-size: cover;
+    z-index: 2;
+    
+  }
+  p{
+    top: 100px;
+   left: 150px;
+    position: absolute;
+    width: 300;
+    height: 100px;
+  }
+  
+  aside{
+    bottom: 20px;
+    right: 400px;
+    position: absolute;
+  }
+  .imageam{
+    background-image: url(https://th.bing.com/th/id/R.fdb4baa10ad2a9e2ee695502dbcdd4bf?rik=zw11Q%2fW5EWLzmA&pid=ImgRaw&r=0);
+    width: 400px;
+    height: 250px;
+    border-radius: 3%;
+    border: 3px solid black;
+    position: absolute;
+    top: 200px;
+    left: 40px;
+    background-size: cover;
+    
+  }
+  .imagech{
+    background-image: url(https://th.bing.com/th/id/OIP.M7DJoXrZ3oKZUuovuVBeGgHaFj?pid=ImgDet&rs=1);
+    width: 400px;
+    height: 250px;
+    border-radius: 3%;
+    border: 3px solid black;
+    position: absolute;
+    top: 200px;
+    left: 40px;
+    background-size: cover;
+    
+  }
+  .imageit{
+    background-image: url(https://th.bing.com/th/id/R.0b8c842e7431ad54d5df2a3fecf612d3?rik=QDLI%2fIHOMXdyQQ&riu=http%3a%2f%2fimages.dailyhive.com%2fvancitybuzz%2fuploads%2f2011%2f10%2fold-spaghetti-factory-kris-taeleman.png&ehk=R7h4LHf9obsl5zPNem44gFRGUsMUll5Ty5YX%2bF88LzE%3d&risl=&pid=ImgRaw&r=0);
+    width: 400px;
+    height: 250px;
+    border-radius: 3%;
+    border: 3px solid black;
+    position: absolute;
+    top: 200px;
+    left: 40px;
+    background-size: cover;
+    
+  }
+  .imagegr{
+    background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/0d/ab/21/63/outside-view.jpg);
+    width: 400px;
+    height: 250px;
+    border-radius: 3%;
+    border: 3px solid black;
+    position: absolute;
+    top: 200px;
+    left: 40px;
+    background-size: cover;
+    
+  }
